@@ -1,0 +1,11 @@
+li {
+	border: 3px solid red;
+}
+
+.complete {
+	text-decoration: line-through;
+}
+
+#next {
+	background-color: yellow;
+}

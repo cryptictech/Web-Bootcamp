@@ -1,0 +1,31 @@
+p{
+	/*Width and heigh*/
+	width: 50%;
+	/*width:2em;*/
+	/*width:50px;*/
+
+	height:50px;
+	/*height:2em;*/
+	/*height:50%;*/
+
+	/*Borders*/
+	border: 2px solid #0000CC;
+
+	/*Padding*/
+	padding:10px;
+	/*padding-left:50px;*/
+	/*padding-right:50px;*/
+	/*padding-top:50px;*/
+	/*padding-bottom:50px;*/
+	/*padding: 20px 30px 40px 50px;*/
+	/*padding: 20px 30px*/
+	
+	/*Margin*/
+	margin: 10px auto;
+	/*margin:auto;*/
+	/*margin-left: 30px;*/
+	/*margin-right: 30px;*/
+	/*margin-top: 30px;*/
+	/*margin-bottom:30px;*/
+	/*margin: 30px 30px 30px 30px;*/
+}

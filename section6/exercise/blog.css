@@ -1,0 +1,37 @@
+body{
+	max-width:700px;
+	width: 80%;
+	border: 20px solid #bdc3c7;
+	margin: 20px auto;
+	font-family: source sans pro;
+}
+
+hr {
+	margin: 25px;
+	border-color: #FCFCFC;
+}
+
+.date{
+	margin-left: 25px;
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+
+h2{
+	margin-left: 25px;
+	color: #2c3e50;
+	font-size: 2.0rem;
+}
+
+p{
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+.blockQuote{
+	margin-left: 25px;
+	margin-right: 25px;
+	padding-left: 10px;
+	border-left: 4px solid #bdc3c7;
+}
